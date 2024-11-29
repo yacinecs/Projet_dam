@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:id="@+id/Navigationcontact"
+        android:icon="@drawable/baseline_contacts_24"
+        android:title="@string/contact">
+    </item>
+
+    <item android:id="@+id/Navigationadd"
+        android:icon="@drawable/baseline_add_24"
+        android:title="@string/add">
+    </item>
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add1"
+        android:title="add"
+        android:icon="@mipmap/ic_launcher"/>
+
+    <item
+        android:id="@+id/delete1"
+        android:title="delete"
+        android:icon="@mipmap/ic_launcher_round"/>
+    <item
+        android:id="@+id/Settings"
+        android:title="Settings"
+        android:icon="@mipmap/ic_launcher_round"/>
+
+
+</menu>
